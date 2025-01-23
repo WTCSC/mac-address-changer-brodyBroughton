@@ -135,9 +135,10 @@ $ cat ogmacaddress.txt
 
 ## Project Structure
 ```
-mac-changer/
+mac-address-changer-brodyBroughton/
+├── demonstration.gif      # Gif demonstration
 ├── macncheese.sh          # Main script
-├── ogmacaddress.txt        # Original MAC address backup
+├── ogmacaddress.txt       # Original MAC address backup
 └── README.md              # This file
 ```
 
